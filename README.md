@@ -17,3 +17,6 @@ This coupon gives drivers a break. Yes, drivers dread opening up their DMV regis
 
 ## Find the DMV smog shop
 
+![smogstore](https://user-images.githubusercontent.com/75657565/138374805-60a86570-4a01-47cc-a144-0dc9c446e622.jpg)
+
+This is where users can find the location of the smog shop, hours of business, and what credit cards are accepted. The credit cards are a mere graphic and not an actual link due to security reasons. Once this becomes live, links will be added. 
