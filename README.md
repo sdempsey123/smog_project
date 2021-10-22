@@ -8,6 +8,10 @@ This project covers a website that can work with most smog-check businesses in t
 
 
 Like other smog check outlets, this one promises that it will pass the DMV smog check or drivers will get a free test after making the proper fixes.
+![smoke](https://user-images.githubusercontent.com/75657565/138373431-6074a12d-12c1-49af-9e5e-78b658b463e3.png)
 
 ## Getting the best deal
 ![coupon](https://user-images.githubusercontent.com/75657565/138373048-75126110-81d9-41e2-9ff0-4bbeee8e6960.png)
+
+This coupon gives drivers a break. Yes, drivers dread opening up their DMV registration notice only to find out they have to get their car "smogged," better known as a DMV smog check. To help these drivers, this business is offering a coupon that can last as long as this business stays open.
+
