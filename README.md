@@ -15,3 +15,5 @@ Like other smog check outlets, this one promises that it will pass the DMV smog 
 
 This coupon gives drivers a break. Yes, drivers dread opening up their DMV registration notice only to find out they have to get their car "smogged," better known as a DMV smog check. To help these drivers, this business is offering a coupon that can last as long as this business stays open.
 
+## Find the DMV smog shop
+
