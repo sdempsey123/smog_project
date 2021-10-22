@@ -6,8 +6,8 @@ This project covers a website that can work with most smog-check businesses in t
 
 ## Making a promise
 
-
 Like other smog check outlets, this one promises that it will pass the DMV smog check or drivers will get a free test after making the proper fixes.
+
 ![smoke](https://user-images.githubusercontent.com/75657565/138373431-6074a12d-12c1-49af-9e5e-78b658b463e3.png)
 
 ## Getting the best deal
