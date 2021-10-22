@@ -33,3 +33,16 @@ This is where users can find the location of the smog shop, hours of business, a
 
 ## Frequently asked questions
 
+![car](https://user-images.githubusercontent.com/75657565/138376134-010a0b73-2865-4fe2-9430-2de9924444c1.png)
+
+Among the questions normally asked:
+* Why do I need a DMV smog check?
+* What is a car smog test?
+* Can you pass emissions with a check engine light on?
+* Do I need a smog shop for a repair?
+* Do I need a smog check?
+* How often do I need to get smogged?
+* Does my vehicle require a smog inspection?
+
+We have answers for these questions. Check out our website!
+
